@@ -23,4 +23,7 @@ Host work.github.com
 ```
 7. When clone a repo, modify the `host` accordingly
 ex: `git@github.com:thongphamvn/notes.git` => `git@me.github.com:thongphamvn/notes.git` to use personal cred
-8. Short explaination: The public key in Github config will be validated against private key added in the ssh-agent
+
+---
+
+Short explaination: The public key in Github config will be validated against private key added in the ssh-agent
